@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "name": "Bindhu S",
+      "Contact":{
+        "number":7975604357,
+      "email":"sb661261@gmail.com",
+      "Github":"https://github.com/bindhuS7?tab=repositories",
+      "linkedin":"https://www.linkedin.com/in/bindhu-s-sudhakara-reddy-318536286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      "aboutMe":{  
+      "Project":"Dancing School Academy",
+      "description":"I am a dedicated individual and completed a Postgraduate  studies in Mathematics, fostering a strong foundation in problem-solving and analytical thinking. Complementing my academic journey,To start a new journey in the field of IT i joined to JSpiders and  acquired skills like coreJava,SQL,HTML,CSS,JS ,mongoDB and ReactJs .Beyond academic, I find immense joy in the art of gardening and agriculture, nurturing a connection with nature and cultivating sustainable practices. Additionally, music serves as my constant companion, offering solace and inspiration in various genres. I am driven by a passion for learning and an eagerness to apply my skills in innovative ways within Information technological advancements.",
+      "href":"https://github.com/bindhuS7/danceAcademy",
+      "ProjectDes":"it's a React Based Project is a comphrehensive platform designed for dancing school academy it consists of two modules ,the admin module and user module.admin have can add managers,branches,academies,courses and user module focused on experience and interaction individual enrollment or interested in the dancing school programs"
+      }
+    }
+  ]
+}
